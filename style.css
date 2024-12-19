@@ -1,8 +1,14 @@
-h3{
-    color: seagreen;
-    text-align: center
+h3 {
+  color: seagreen;
+  text-align: center;
 }
-p{
-    background-color: aqua;
-
+p {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  background-image: url(/image/Remove\ background\ project\ \(3\).png);
+  background-size: 100% 100%;  /* Make the background image cover the <p> tag size */
+  background-position: center;
+  background-repeat: no-repeat;
+  color:tomato;
 }
